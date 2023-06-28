@@ -6,11 +6,11 @@ Hi, my name is Maksim. I am a cyber security professional. My interests include:
 - blockchain security
 - machine learning
 - finance
+- sports
 
-# other interests I dont have time for
+# fun facts
 
-- doing sports
 - chelsea fan
-- martial arts fan
+- ufc fan
 - world of warcraft veteran
 - pokemon card investor
