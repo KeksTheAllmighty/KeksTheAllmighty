@@ -25,7 +25,7 @@ Hi, my name is Maksim. I am a cyber security professional. My interests include:
 - social media automation
 - twitter posts classification
 - financial data science
-- https://moam-patterns.com/
+- online shop
 
 # fun facts
 
