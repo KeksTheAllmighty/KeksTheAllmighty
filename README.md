@@ -19,6 +19,7 @@ Hi, my name is Maksim. I am a cyber security professional. My interests include:
 - eJPT
 - eCPPTv2
 - OSCP
+- Google Cybersecurity
 
 # projects
 
