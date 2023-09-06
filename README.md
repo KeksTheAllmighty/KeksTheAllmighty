@@ -2,12 +2,14 @@
 
 Hi, my name is Maksim. I am a cyber security professional. My interests include:
 
-- red teaming
+- offensive security
+- defensive security
 - blockchain security
 - python
 - machine learning
 - finance
 - sports
+- flying FPV drones
 
 # studies and certifications
 
