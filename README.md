@@ -5,6 +5,7 @@ Hi, my name is Maksim. I am a cyber security professional. My interests include:
 - offensive security
 - defensive security
 - blockchain security
+- web3
 - python
 - machine learning
 - finance
